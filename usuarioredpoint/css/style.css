@@ -1,0 +1,126 @@
+/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .container_father {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    height: -webkit-fill-available;
+  }
+  
+  .color_form {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .text_personal {
+    color: indianred;
+    text-align: end;
+  }
+  
+  .whithe_text {
+    color:black;
+  }
+  
+  .button_color {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    display: table-cell;
+    vertical-align: center;
+    border: none;
+  }
+  
+  .style_bar {
+    border-radius: 7px;
+    /*background-color: purple;*/
+    color:black;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+.logoredpoint{
+    width: 100px;
+    height: 40px;
+}
+
+.title_publication{
+  margin-top: 20px;
+  font-size: 20px;
+  color: red;
+  
+  margin-right: 600px;
+  text-align: center;
+}
+.title_name{
+  color: red;
+}
+
+.center-content{
+  text-align: center;
+}
+
+#formulario_envio{
+  margin: 10px 110px;
+  height: 40px;
+}
+#lastname{
+  height:200px;
+}
+.style_radio{
+  border-radius: 50%;
+}
+.style_colort{
+  color:red;
+  margin-top: 20px;
+}
+.logo_profile{
+  width: 30px;
+  height: 30px;
+}
+.bell_red{
+  width: 30px;
+  height: 30px;
+}
+.rp_nav{
+  border-top: 5px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #999;
+  background-color: white;
+ 
+
+}
+
+.design_card{
+    width: 200px;
+    height: 500px;
+    font-size: 10px;
+}
+
+.card-text{
+    color: white;
+    
+}
+.title_userp{
+    font-weight: bold;
+    color: red;
+}
+

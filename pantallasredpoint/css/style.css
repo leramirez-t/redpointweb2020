@@ -1,0 +1,65 @@
+body {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+  }
+  
+  .container_father {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    height: -webkit-fill-available;
+  }
+  
+  .color_form {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .text_personal {
+    color: indianred;
+    text-align: end;
+  }
+  
+  .whithe_text {
+    color:black;
+  }
+  
+  .button_color {
+    background-color: forestgreen;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  .style_bar {
+    border-radius: 7px;
+    /*background-color: purple;*/
+    color:black;
+    height: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+.logoredpoint{
+    width: 100px;
+    height: 40px;
+}
+.login_style{
+    border-width: 1px;
+    border-style: solid;
+    border-color: lightgray;
+}
+
+
+
+  /*# sourceMappingURL=style.css.map */
